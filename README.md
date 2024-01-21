@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SajjadR0101/SajjadR0101/main/Broken_Letters_Text_Effect.png" />
+<img src="https://github.com/SajjadR0101/SajjadR0101/blob/main/Broken_Letters_Text_Effect.jpg?raw=true" />
 
 # Hi there 👋, i'm SajjadR0101, a frontend developer ✌️
 
